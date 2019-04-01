@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Doublc-Qluv</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2019-03-28T17:16:42.172Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Doublc-Qluv</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>己亥二月十八日忆梦</title>
+    <link href="http://yoursite.com/jottings/%E5%B7%B1%E4%BA%A5%E4%BA%8C%E6%9C%88%E5%8D%81%E5%85%AB%E6%97%A5%E5%BF%86%E6%A2%A6/"/>
+    <id>http://yoursite.com/jottings/己亥二月十八日忆梦/</id>
+    <published>2019-03-28T16:50:53.000Z</published>
+    <updated>2019-03-28T17:16:42.172Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="己亥二月十八日忆梦"><a href="#己亥二月十八日忆梦" class="headerlink" title="己亥二月十八日忆梦"></a>己亥二月十八日忆梦</h3><p>亓官上</p><p><em>你是我生命中无处安放的欢喜，</em></p><p><em>你是我余生里大喜大悲的隐秘。</em><br><a id="more"></a><br>偶然得君入梦，一袭红尘，</p><p>不知未来在何，锦官幽城。</p><p>昨夜月灯昨夜风，</p><p>流年西走金城东。</p><p>旧时窗明宇前雪，</p><p>不见林中习习风。</p><p>戊戌年，断舍离，</p><p>惊梦里，成烟雨。</p><p>自古离别多生情，</p><p>碎念请君侧耳听。</p><p><br></p><p>如若远避狂喜色，</p><p>自未悲痛涌心头。</p><p>欲鹤西去了百事，</p><p>定格终局唯此刻。</p><p>或是未来某刹那，</p><p>举重若轻言放下，</p><p>某日倾心另一人，</p><p>终此残生作生活。</p><p>未见完美不如君，</p><p>莫问彼程无处寻。</p><p>心若无物人世空，</p><p>不可名状无可得。</p><p>青春几载空悠悠，</p><p>也扮小丑亦疯狂。</p><p>世间沧海却桑田，</p><p>却愿再遇如初见。</p><p>仅有二者约此称，</p><p>却是过去全半生。</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;己亥二月十八日忆梦&quot;&gt;&lt;a href=&quot;#己亥二月十八日忆梦&quot; class=&quot;headerlink&quot; title=&quot;己亥二月十八日忆梦&quot;&gt;&lt;/a&gt;己亥二月十八日忆梦&lt;/h3&gt;&lt;p&gt;亓官上&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;你是我生命中无处安放的欢喜，&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;你是我余生里大喜大悲的隐秘。&lt;/em&gt;&lt;br&gt;
+    
+    </summary>
+    
+      <category term="jottings" scheme="http://yoursite.com/categories/jottings/"/>
+    
+    
+      <category term="˙小抒胸臆" scheme="http://yoursite.com/tags/%CB%99%E5%B0%8F%E6%8A%92%E8%83%B8%E8%87%86/"/>
+    
+      <category term="record" scheme="http://yoursite.com/tags/record/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/hexo/hello-world/"/>
+    <id>http://yoursite.com/hexo/hello-world/</id>
+    <published>2019-02-14T14:46:30.000Z</published>
+    <updated>2018-11-16T07:14:54.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.<br><a id="more"></a></p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;GitHub&lt;/a&gt;.&lt;br&gt;
+    
+    </summary>
+    
+      <category term="hexo" scheme="http://yoursite.com/categories/hexo/"/>
+    
+    
+      <category term="hexo" scheme="http://yoursite.com/tags/hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Data Analysis with python (1)</title>
+    <link href="http://yoursite.com/notes/Data-Analysis-with-python-1/"/>
+    <id>http://yoursite.com/notes/Data-Analysis-with-python-1/</id>
+    <published>2018-11-16T07:40:41.000Z</published>
+    <updated>2018-11-16T07:47:10.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="notes" scheme="http://yoursite.com/categories/notes/"/>
+    
+    
+      <category term="python" scheme="http://yoursite.com/tags/python/"/>
+    
+      <category term="data analysis" scheme="http://yoursite.com/tags/data-analysis/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>This is the world</title>
+    <link href="http://yoursite.com/jottings/This-is-the-world/"/>
+    <id>http://yoursite.com/jottings/This-is-the-world/</id>
+    <published>2018-11-15T01:43:32.000Z</published>
+    <updated>2018-11-16T07:00:30.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Maybe this is the my start of the world</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Maybe this is the my start of the world&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+      <category term="jottings" scheme="http://yoursite.com/categories/jottings/"/>
+    
+    
+      <category term="start" scheme="http://yoursite.com/tags/start/"/>
+    
+  </entry>
+  
+</feed>
